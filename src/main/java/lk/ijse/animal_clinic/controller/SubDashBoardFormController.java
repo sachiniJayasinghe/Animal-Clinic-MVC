@@ -30,7 +30,6 @@ public class SubDashBoardFormController implements Initializable {
 
     @FXML
     private Label lblTime;
-
     @FXML
     private Pane paneCustomerCount;
     @FXML
