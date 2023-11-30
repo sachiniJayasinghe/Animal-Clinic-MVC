@@ -125,6 +125,5 @@ public class SubDashBoardFormController implements Initializable {
 
         scaleTransition.setOnFinished(event -> fadeTransition.play());
         scaleTransition.play();
-
     }
 }
