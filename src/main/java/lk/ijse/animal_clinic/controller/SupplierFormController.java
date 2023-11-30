@@ -81,8 +81,6 @@ public class SupplierFormController {
     @FXML
     private TextField txtTel;
 
-
-
     @FXML
     private JFXComboBox<String> cmbStockId;
     public void initialize() {
