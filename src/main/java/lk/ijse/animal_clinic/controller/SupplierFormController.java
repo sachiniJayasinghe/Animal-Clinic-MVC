@@ -84,6 +84,7 @@ public class SupplierFormController {
     @FXML
     private JFXComboBox<String> cmbStockId;
 
+
     public void initialize() {
         setCellValueFactory();
         loadAllSupliyer();
