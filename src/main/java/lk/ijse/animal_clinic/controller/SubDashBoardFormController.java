@@ -41,7 +41,6 @@ public class SubDashBoardFormController implements Initializable {
     @FXML
     private Pane panePetsCount;
 
-
     void loadTime(){
         Timeline clock = new Timeline(new KeyFrame(Duration.ZERO, e -> {
             LocalTime currentTime = LocalTime.now();
