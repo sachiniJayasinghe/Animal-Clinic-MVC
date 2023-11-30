@@ -22,7 +22,6 @@ import java.util.ResourceBundle;
 public class SubDashBoardFormController implements Initializable {
     @FXML
     private Label lblCustomerCount;
-
     @FXML
     private Label lblDoctorCount;
 
