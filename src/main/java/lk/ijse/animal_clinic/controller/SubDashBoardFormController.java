@@ -58,6 +58,7 @@ public class SubDashBoardFormController implements Initializable {
         try {
             loadCustomerCount();
         } catch (SQLException e) {
+
         }
         try {
             loadPetCount();
