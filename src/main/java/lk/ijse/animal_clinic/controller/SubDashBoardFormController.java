@@ -33,7 +33,6 @@ public class SubDashBoardFormController implements Initializable {
 
     @FXML
     private Pane paneCustomerCount;
-
     @FXML
     private Pane paneDoctorsCount;
     @FXML
