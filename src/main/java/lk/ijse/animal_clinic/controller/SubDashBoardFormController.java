@@ -39,7 +39,6 @@ public class SubDashBoardFormController implements Initializable {
 
     @FXML
     private Pane paneImage;
-
     @FXML
     private Pane paneParagraph;
 
