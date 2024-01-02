@@ -124,6 +124,10 @@ public class CustomerModel {
 
     }
 
+
+
+
+
     public String generateNextCustomerID() throws SQLException {
         Connection connection = DbConnection.getInstance().getConnection();
 
